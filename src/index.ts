@@ -15,3 +15,5 @@ user.on("click", () => {
 });
 
 console.log(user);
+
+user.trigger("change");
