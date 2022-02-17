@@ -1,0 +1,14 @@
+{
+  "name": "webframework",
+  "version": "1.0.0",
+  "description": "Development of a small Web Framework",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gipeters",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
