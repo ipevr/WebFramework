@@ -11,3 +11,9 @@ user.set({age: 38});
 
 console.log(user.get("name"));
 console.log(user.get("age"));
+
+user.on("click", () => {
+    console.log("Clicked!");
+})
+
+console.log(user.events);
